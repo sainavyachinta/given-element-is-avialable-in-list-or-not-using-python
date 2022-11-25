@@ -1,0 +1,7 @@
+list=[1,2,3,4,5]
+print=('enter number to search:')
+n=int(input())
+if n in list:
+      print('yes')
+else:
+      print('no')
